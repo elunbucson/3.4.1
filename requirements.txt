@@ -1,0 +1,3 @@
+# Ventana BAT: Python 3.10+ con Tkinter; sin paquetes externos.
+# Notebook: instalar notebook_requirements.txt.
+

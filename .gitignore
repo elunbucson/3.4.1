@@ -1,0 +1,10 @@
+config_local.py
+rutas_habituales/
+resultados/
+*.gpx
+*.kml
+__pycache__/
+*.py[cod]
+Informe_*.pdf
+navegacion_*.ipynb
+
